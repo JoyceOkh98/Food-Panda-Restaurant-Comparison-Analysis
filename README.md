@@ -17,7 +17,6 @@ Objectives:
 5. To inform business decisions with data-driven insights.
 
  Methodology:
-This project’s analysis was carried out using Microsoft Excel. The dataset was cleaned (duplicates were removed, empty cells were checked for) to ensure it is free from errors that could affect the analysis. There was a little shortcoming in the process of cleaning, where an error message was persistently popping up while trying to put the order date column in a text format.
 The next step taken for this analysis was to input the data in a pivot table to find the relationship between variables.
 
 
@@ -61,7 +60,7 @@ The data is a public dataset that was gotten from kaggle.com
 
 Data Splitting and Preprocessing:
 - Data Cleaning
-The dataset was downloaded from kaggle.com and loaded into an Excel Workbook. Checks were performed for blanks and duplicates. In order to preserve the original dataset, the raw data was duplicated and retained for reference.
+The dataset was downloaded from kaggle.com and loaded into an Excel Workbook. Checks were performed for blanks and duplicates. In order to preserve the original dataset, the raw data was duplicated and retained for reference. This project’s analysis was carried out using Microsoft Excel. The dataset was cleaned (duplicates were removed, empty cells were checked for) to ensure it is free from errors that could affect the analysis. There was a little shortcoming in the process of cleaning, where an error message was persistently popping up while trying to put the order date column in a text format.
 
 - Data Splitting
 Independent
